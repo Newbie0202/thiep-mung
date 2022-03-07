@@ -1,6 +1,6 @@
 const nameGirl = 'Bạn bánh bao ơi!';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Chúc Mừng Ngày 8 tháng ';
+const eventName = 'Chúc Mừng 8-3 ';
 const titleCard = 'Tặng bạn hay lý do lý trấu :V';
 const contentCard = 'Mừng ngày phụ nữ , mừng ngày bạn gì xinh xinh :v (nhưng mà hơi ngố :V)🥰😘😘. Còn nhiều điều chờ phía trước , mạnh mẽ lên bạn gì đó ơi :V';
 
